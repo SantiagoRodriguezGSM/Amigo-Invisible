@@ -1,0 +1,7 @@
+[
+  { "name": "Lucía Muñoz", "email": "lucia@example.com", "exclude": ["Íñigo Peña"] },
+  { "name": "Íñigo Peña", "email": "inigo@example.com", "exclude": ["Lucía Muñoz"] },
+  { "name": "Raúl Núñez", "email": "raul@example.com" },
+  { "name": "Ana Belén Soto", "email": "ana@example.com" },
+  { "name": "Martín Ibáñez", "email": "martin@example.com" }
+]

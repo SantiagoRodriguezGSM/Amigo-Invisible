@@ -1,4 +1,28 @@
-*.pdf
-*.docx
-*.ttf
-*.json
+# --- Datos privados: NUNCA subir ---
+.env
+.env.*
+!.env.example
+participants.json
+pdfs/
+preview.pdf
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# --- Herramientas ---
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# --- Editor / sistema ---
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
