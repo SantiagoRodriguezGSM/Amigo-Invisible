@@ -171,7 +171,7 @@ def main():
 
     perm = generate_derangement(len(participants))
 
-    Path("pdfs").mkdir(exist_ok=True)
+    Path("../pdfs").mkdir(exist_ok=True)
 
     print("\n=== ENVÍO NAVIDEÑO DE AMIGO INVISIBLE 🎄 ===\n")
 
