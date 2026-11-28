@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "amigo-invisible"
-version = "0.8.0"
+version = "0.9.0"
 description = "Sortea el Amigo Invisible y envía por correo un PDF navideño a cada participante."
 readme = "README.md"
 license = { text = "MIT" }
